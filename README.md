@@ -2,11 +2,12 @@
 A Python Lambda Webhook Listener - Generates a permanent URL on created assets.
 See doc on Generating a Permanent URL: https://www.contentstack.com/docs/developers/apis/content-management-api/#generate-permanent-asset-url
 
-**Not officially supported by Contentstack**
+### This repository is not officially supported by Contentstack
+Use the issue tracker in this repository or contact oskar.eiriksson@contentstack.com
 
-Note: This can only be executed once on every asset. The permanent URL cannot be changed after generating it.
+Note: This code can only be executed once on every asset. The permanent URL cannot be changed after generating it.
 
-## Python 3.9.
+### Python 3.9.
 
 ## Step by step:
 ### **1.** Create a Lambda function and an API Gateway in AWS Lambda. Based on these documentation articles:
