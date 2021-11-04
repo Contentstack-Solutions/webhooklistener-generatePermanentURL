@@ -13,7 +13,7 @@ Developed using Python 3.9.
 ### **1.** Create a Lambda function and an API Gateway in AWS Lambda. Based on these documentation articles:
    * [TUTORIAL: Build an API Gateway API with Lambda Non-Proxy Integration](https://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started-lambda-non-proxy-integration.html).
    * [AWS Lambda Deployment Package in Python](https://docs.aws.amazon.com/lambda/latest/dg/python-package.html)
-   * (Optional) Create tests in Lambda, using the`testLambda.py` script - Note: You will need to change the asset uid to make it work on a asset on your stack.
+   * (Optional) To run locally - run the `testLambda.py` script - Note: You will need to change the asset uid to make it work on a asset on your stack.
 
  ### **2.** Environmental variables needed:
   * `CS_APIKEY` -> API Key of the Stack.
