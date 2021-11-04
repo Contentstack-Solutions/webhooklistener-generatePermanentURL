@@ -7,7 +7,7 @@ Use the issue tracker in this repository or contact oskar.eiriksson@contentstack
 
 Note: This code can only be executed once on every asset. The permanent URL cannot be changed after generating it.
 
-### Python 3.9.
+Developed using Python 3.9.
 
 ## Step by step:
 ### **1.** Create a Lambda function and an API Gateway in AWS Lambda. Based on these documentation articles:
